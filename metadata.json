@@ -1,0 +1,12 @@
+{
+  "name": "নির্ভয়া সাথী (Nirbhoya Sathi)",
+  "description": "সাহসী নিরাপদ সঙ্গী - A modern AI-powered Women Safety Digital Platform with multilingual support for 22 Indian languages, featuring SOS, live tracking, and community support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
