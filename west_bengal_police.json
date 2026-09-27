@@ -1,0 +1,3997 @@
+[
+  {
+    "code": "712601_ARAMBAGH",
+    "name": "Arambagh Police Station",
+    "district": "Hooghly",
+    "pinCode": "712601",
+    "type": "General",
+    "contact": "03211-255223",
+    "location": {
+      "lat": 22.8824,
+      "lng": 87.7842
+    }
+  },
+  {
+    "code": "712413_KHANAKUL",
+    "name": "Khanakul Police Station",
+    "district": "Hooghly",
+    "pinCode": "712413, 712417",
+    "type": "General",
+    "contact": "03211-266224",
+    "location": {
+      "lat": 22.7092,
+      "lng": 87.8631
+    }
+  },
+  {
+    "code": "300001",
+    "name": "Alipurduar Sadar PS",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-3754733",
+    "location": {
+      "lat": 26.4509,
+      "lng": 89.5578
+    }
+  },
+  {
+    "code": "300002",
+    "name": "Alipurduar Women PS",
+    "district": "Alipurduar",
+    "type": "Women",
+    "contact": "033-4258342",
+    "location": {
+      "lat": 26.4775,
+      "lng": 89.5974
+    }
+  },
+  {
+    "code": "300003",
+    "name": "Alipurduar Police Station",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-7433050",
+    "location": {
+      "lat": 26.5174,
+      "lng": 89.5742
+    }
+  },
+  {
+    "code": "300004",
+    "name": "Alipurduar Police Station 4",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-9260647",
+    "location": {
+      "lat": 26.5642,
+      "lng": 89.5189
+    }
+  },
+  {
+    "code": "300005",
+    "name": "Alipurduar Police Station 5",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-6000879",
+    "location": {
+      "lat": 26.5557,
+      "lng": 89.5129
+    }
+  },
+  {
+    "code": "300006",
+    "name": "Alipurduar Police Station 6",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-8240045",
+    "location": {
+      "lat": 26.5592,
+      "lng": 89.432
+    }
+  },
+  {
+    "code": "300007",
+    "name": "Alipurduar Police Station 7",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-4869062",
+    "location": {
+      "lat": 26.5906,
+      "lng": 89.5956
+    }
+  },
+  {
+    "code": "300008",
+    "name": "Alipurduar Police Station 8",
+    "district": "Alipurduar",
+    "type": "General",
+    "contact": "033-4209171",
+    "location": {
+      "lat": 26.4013,
+      "lng": 89.4611
+    }
+  },
+  {
+    "code": "300009",
+    "name": "Bankura Sadar PS",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-8050520",
+    "location": {
+      "lat": 23.2264,
+      "lng": 87.0418
+    }
+  },
+  {
+    "code": "300010",
+    "name": "Bankura Women PS",
+    "district": "Bankura",
+    "type": "Women",
+    "contact": "033-2507250",
+    "location": {
+      "lat": 23.3006,
+      "lng": 87.0208
+    }
+  },
+  {
+    "code": "300011",
+    "name": "Bankura Cyber Crime PS",
+    "district": "Bankura",
+    "type": "Cyber",
+    "contact": "033-6031415",
+    "location": {
+      "lat": 23.144,
+      "lng": 87.0143
+    }
+  },
+  {
+    "code": "300012",
+    "name": "Bankura Police Station 4",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-5133870",
+    "location": {
+      "lat": 23.3004,
+      "lng": 87.1063
+    }
+  },
+  {
+    "code": "300013",
+    "name": "Bankura Police Station 5",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-3490629",
+    "location": {
+      "lat": 23.189,
+      "lng": 87.1332
+    }
+  },
+  {
+    "code": "300014",
+    "name": "Bankura Police Station 6",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-5985692",
+    "location": {
+      "lat": 23.2554,
+      "lng": 87.1296
+    }
+  },
+  {
+    "code": "300015",
+    "name": "Bankura Police Station 7",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-2211445",
+    "location": {
+      "lat": 23.1408,
+      "lng": 86.9932
+    }
+  },
+  {
+    "code": "300016",
+    "name": "Bankura Police Station 8",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-9351003",
+    "location": {
+      "lat": 23.2598,
+      "lng": 87.1467
+    }
+  },
+  {
+    "code": "300017",
+    "name": "Bankura Police Station 9",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-4398421",
+    "location": {
+      "lat": 23.1438,
+      "lng": 87.1663
+    }
+  },
+  {
+    "code": "300018",
+    "name": "Bankura Police Station 10",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-2429384",
+    "location": {
+      "lat": 23.2091,
+      "lng": 87.1404
+    }
+  },
+  {
+    "code": "300019",
+    "name": "Bankura Police Station 11",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-9305608",
+    "location": {
+      "lat": 23.2035,
+      "lng": 87.132
+    }
+  },
+  {
+    "code": "300020",
+    "name": "Bankura Police Station 12",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-7797493",
+    "location": {
+      "lat": 23.1389,
+      "lng": 86.9956
+    }
+  },
+  {
+    "code": "300021",
+    "name": "Bankura Police Station 13",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-6675126",
+    "location": {
+      "lat": 23.1975,
+      "lng": 86.9818
+    }
+  },
+  {
+    "code": "300022",
+    "name": "Bankura Police Station 14",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-9865407",
+    "location": {
+      "lat": 23.1723,
+      "lng": 87.1566
+    }
+  },
+  {
+    "code": "300023",
+    "name": "Bankura Police Station 15",
+    "district": "Bankura",
+    "type": "General",
+    "contact": "033-6486703",
+    "location": {
+      "lat": 23.2155,
+      "lng": 87.0184
+    }
+  },
+  {
+    "code": "300024",
+    "name": "Birbhum Sadar PS",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-4034856",
+    "location": {
+      "lat": 23.8466,
+      "lng": 87.4584
+    }
+  },
+  {
+    "code": "300025",
+    "name": "Birbhum Women PS",
+    "district": "Birbhum",
+    "type": "Women",
+    "contact": "033-4499658",
+    "location": {
+      "lat": 23.8745,
+      "lng": 87.515
+    }
+  },
+  {
+    "code": "300026",
+    "name": "Birbhum Cyber Crime PS",
+    "district": "Birbhum",
+    "type": "Cyber",
+    "contact": "033-4719716",
+    "location": {
+      "lat": 23.8444,
+      "lng": 87.5901
+    }
+  },
+  {
+    "code": "300027",
+    "name": "Birbhum Police Station 4",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-5291647",
+    "location": {
+      "lat": 23.8636,
+      "lng": 87.526
+    }
+  },
+  {
+    "code": "300028",
+    "name": "Birbhum Police Station 5",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-2678957",
+    "location": {
+      "lat": 23.9195,
+      "lng": 87.6072
+    }
+  },
+  {
+    "code": "300029",
+    "name": "Birbhum Police Station 6",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-9007945",
+    "location": {
+      "lat": 23.9206,
+      "lng": 87.4523
+    }
+  },
+  {
+    "code": "300030",
+    "name": "Birbhum Police Station 7",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-8686571",
+    "location": {
+      "lat": 23.8172,
+      "lng": 87.4496
+    }
+  },
+  {
+    "code": "300031",
+    "name": "Birbhum Police Station 8",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-8024275",
+    "location": {
+      "lat": 23.83,
+      "lng": 87.5154
+    }
+  },
+  {
+    "code": "300032",
+    "name": "Birbhum Police Station 9",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-4036779",
+    "location": {
+      "lat": 23.8542,
+      "lng": 87.4989
+    }
+  },
+  {
+    "code": "300033",
+    "name": "Birbhum Police Station 10",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-3274549",
+    "location": {
+      "lat": 23.8979,
+      "lng": 87.5236
+    }
+  },
+  {
+    "code": "300034",
+    "name": "Birbhum Police Station 11",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-4509040",
+    "location": {
+      "lat": 23.9649,
+      "lng": 87.4555
+    }
+  },
+  {
+    "code": "300035",
+    "name": "Birbhum Police Station 12",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-4368924",
+    "location": {
+      "lat": 23.8239,
+      "lng": 87.4688
+    }
+  },
+  {
+    "code": "300036",
+    "name": "Birbhum Police Station 13",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-5667085",
+    "location": {
+      "lat": 23.9233,
+      "lng": 87.5058
+    }
+  },
+  {
+    "code": "300037",
+    "name": "Birbhum Police Station 14",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-9858759",
+    "location": {
+      "lat": 23.9124,
+      "lng": 87.5304
+    }
+  },
+  {
+    "code": "300038",
+    "name": "Birbhum Police Station 15",
+    "district": "Birbhum",
+    "type": "General",
+    "contact": "033-9144738",
+    "location": {
+      "lat": 23.9392,
+      "lng": 87.4607
+    }
+  },
+  {
+    "code": "300039",
+    "name": "Cooch Behar Sadar PS",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-2428768",
+    "location": {
+      "lat": 26.3192,
+      "lng": 89.3776
+    }
+  },
+  {
+    "code": "300040",
+    "name": "Cooch Behar Women PS",
+    "district": "Cooch Behar",
+    "type": "Women",
+    "contact": "033-3159862",
+    "location": {
+      "lat": 26.306,
+      "lng": 89.4499
+    }
+  },
+  {
+    "code": "300041",
+    "name": "Cooch Behar Cyber Crime PS",
+    "district": "Cooch Behar",
+    "type": "Cyber",
+    "contact": "033-8678447",
+    "location": {
+      "lat": 26.3276,
+      "lng": 89.4571
+    }
+  },
+  {
+    "code": "300042",
+    "name": "Cooch Behar Police Station 4",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-5799944",
+    "location": {
+      "lat": 26.4195,
+      "lng": 89.4759
+    }
+  },
+  {
+    "code": "300043",
+    "name": "Cooch Behar Police Station 5",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-2663958",
+    "location": {
+      "lat": 26.4099,
+      "lng": 89.4724
+    }
+  },
+  {
+    "code": "300044",
+    "name": "Cooch Behar Police Station 6",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-3896664",
+    "location": {
+      "lat": 26.3551,
+      "lng": 89.4495
+    }
+  },
+  {
+    "code": "300045",
+    "name": "Cooch Behar Police Station 7",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-7750398",
+    "location": {
+      "lat": 26.2591,
+      "lng": 89.5377
+    }
+  },
+  {
+    "code": "300046",
+    "name": "Cooch Behar Police Station 8",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-6579861",
+    "location": {
+      "lat": 26.3121,
+      "lng": 89.3699
+    }
+  },
+  {
+    "code": "300047",
+    "name": "Cooch Behar Police Station 9",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-7638560",
+    "location": {
+      "lat": 26.4016,
+      "lng": 89.5268
+    }
+  },
+  {
+    "code": "300048",
+    "name": "Cooch Behar Police Station 10",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-7946574",
+    "location": {
+      "lat": 26.3364,
+      "lng": 89.4056
+    }
+  },
+  {
+    "code": "300049",
+    "name": "Cooch Behar Police Station 11",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-9887666",
+    "location": {
+      "lat": 26.3012,
+      "lng": 89.5074
+    }
+  },
+  {
+    "code": "300050",
+    "name": "Cooch Behar Police Station 12",
+    "district": "Cooch Behar",
+    "type": "General",
+    "contact": "033-4572113",
+    "location": {
+      "lat": 26.2964,
+      "lng": 89.4831
+    }
+  },
+  {
+    "code": "300051",
+    "name": "Dakshin Dinajpur Sadar PS",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-4833310",
+    "location": {
+      "lat": 25.336,
+      "lng": 88.7682
+    }
+  },
+  {
+    "code": "300052",
+    "name": "Dakshin Dinajpur Women PS",
+    "district": "Dakshin Dinajpur",
+    "type": "Women",
+    "contact": "033-5638164",
+    "location": {
+      "lat": 25.219,
+      "lng": 88.8202
+    }
+  },
+  {
+    "code": "300053",
+    "name": "Dakshin Dinajpur Police Station",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-8363472",
+    "location": {
+      "lat": 25.2519,
+      "lng": 88.7004
+    }
+  },
+  {
+    "code": "300054",
+    "name": "Dakshin Dinajpur Police Station 4",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-4243917",
+    "location": {
+      "lat": 25.1849,
+      "lng": 88.7283
+    }
+  },
+  {
+    "code": "300055",
+    "name": "Dakshin Dinajpur Police Station 5",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-8353248",
+    "location": {
+      "lat": 25.2983,
+      "lng": 88.7698
+    }
+  },
+  {
+    "code": "300056",
+    "name": "Dakshin Dinajpur Police Station 6",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-9445155",
+    "location": {
+      "lat": 25.3515,
+      "lng": 88.6964
+    }
+  },
+  {
+    "code": "300057",
+    "name": "Dakshin Dinajpur Police Station 7",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-4623544",
+    "location": {
+      "lat": 25.2824,
+      "lng": 88.7129
+    }
+  },
+  {
+    "code": "300058",
+    "name": "Dakshin Dinajpur Police Station 8",
+    "district": "Dakshin Dinajpur",
+    "type": "General",
+    "contact": "033-3758169",
+    "location": {
+      "lat": 25.2839,
+      "lng": 88.7162
+    }
+  },
+  {
+    "code": "300059",
+    "name": "Darjeeling Sadar PS",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-6400336",
+    "location": {
+      "lat": 27.0929,
+      "lng": 88.3506
+    }
+  },
+  {
+    "code": "300060",
+    "name": "Darjeeling Women PS",
+    "district": "Darjeeling",
+    "type": "Women",
+    "contact": "033-2938792",
+    "location": {
+      "lat": 26.9871,
+      "lng": 88.3351
+    }
+  },
+  {
+    "code": "300061",
+    "name": "Darjeeling Cyber Crime PS",
+    "district": "Darjeeling",
+    "type": "Cyber",
+    "contact": "033-4291121",
+    "location": {
+      "lat": 26.9952,
+      "lng": 88.1674
+    }
+  },
+  {
+    "code": "300062",
+    "name": "Darjeeling Police Station 4",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-9891783",
+    "location": {
+      "lat": 27.001,
+      "lng": 88.2284
+    }
+  },
+  {
+    "code": "300063",
+    "name": "Darjeeling Police Station 5",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-8176665",
+    "location": {
+      "lat": 27.129,
+      "lng": 88.1678
+    }
+  },
+  {
+    "code": "300064",
+    "name": "Darjeeling Police Station 6",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-6356160",
+    "location": {
+      "lat": 27.0587,
+      "lng": 88.2234
+    }
+  },
+  {
+    "code": "300065",
+    "name": "Darjeeling Police Station 7",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-7554638",
+    "location": {
+      "lat": 26.949,
+      "lng": 88.3086
+    }
+  },
+  {
+    "code": "300066",
+    "name": "Darjeeling Police Station 8",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-5448511",
+    "location": {
+      "lat": 27.0548,
+      "lng": 88.1672
+    }
+  },
+  {
+    "code": "300067",
+    "name": "Darjeeling Police Station 9",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-5276414",
+    "location": {
+      "lat": 26.9884,
+      "lng": 88.1946
+    }
+  },
+  {
+    "code": "300068",
+    "name": "Darjeeling Police Station 10",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-9723254",
+    "location": {
+      "lat": 27.1181,
+      "lng": 88.2089
+    }
+  },
+  {
+    "code": "300069",
+    "name": "Darjeeling Police Station 11",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-4466440",
+    "location": {
+      "lat": 26.9683,
+      "lng": 88.3529
+    }
+  },
+  {
+    "code": "300070",
+    "name": "Darjeeling Police Station 12",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-9972750",
+    "location": {
+      "lat": 27.1131,
+      "lng": 88.2686
+    }
+  },
+  {
+    "code": "300071",
+    "name": "Darjeeling Police Station 13",
+    "district": "Darjeeling",
+    "type": "General",
+    "contact": "033-7297158",
+    "location": {
+      "lat": 26.9844,
+      "lng": 88.1874
+    }
+  },
+  {
+    "code": "300072",
+    "name": "Hooghly Sadar PS",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-3612481",
+    "location": {
+      "lat": 22.87,
+      "lng": 88.4328
+    }
+  },
+  {
+    "code": "300073",
+    "name": "Hooghly Women PS",
+    "district": "Hooghly",
+    "type": "Women",
+    "contact": "033-3832892",
+    "location": {
+      "lat": 22.9886,
+      "lng": 88.376
+    }
+  },
+  {
+    "code": "300074",
+    "name": "Hooghly Cyber Crime PS",
+    "district": "Hooghly",
+    "type": "Cyber",
+    "contact": "033-7256843",
+    "location": {
+      "lat": 22.9631,
+      "lng": 88.3548
+    }
+  },
+  {
+    "code": "300075",
+    "name": "Hooghly Police Station 4",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-6984206",
+    "location": {
+      "lat": 22.9731,
+      "lng": 88.3176
+    }
+  },
+  {
+    "code": "300076",
+    "name": "Hooghly Police Station 5",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-7647377",
+    "location": {
+      "lat": 22.8843,
+      "lng": 88.3451
+    }
+  },
+  {
+    "code": "300077",
+    "name": "Hooghly Police Station 6",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-2452149",
+    "location": {
+      "lat": 22.8431,
+      "lng": 88.3066
+    }
+  },
+  {
+    "code": "300078",
+    "name": "Hooghly Police Station 7",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-4622183",
+    "location": {
+      "lat": 22.8386,
+      "lng": 88.4027
+    }
+  },
+  {
+    "code": "300079",
+    "name": "Hooghly Police Station 8",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-8092316",
+    "location": {
+      "lat": 22.8949,
+      "lng": 88.2959
+    }
+  },
+  {
+    "code": "300080",
+    "name": "Hooghly Police Station 9",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-3639422",
+    "location": {
+      "lat": 22.9282,
+      "lng": 88.376
+    }
+  },
+  {
+    "code": "300081",
+    "name": "Hooghly Police Station 10",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-4454858",
+    "location": {
+      "lat": 22.9197,
+      "lng": 88.3658
+    }
+  },
+  {
+    "code": "300082",
+    "name": "Hooghly Police Station 11",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-5668168",
+    "location": {
+      "lat": 22.9162,
+      "lng": 88.2989
+    }
+  },
+  {
+    "code": "300083",
+    "name": "Hooghly Police Station 12",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-2826309",
+    "location": {
+      "lat": 22.9423,
+      "lng": 88.3997
+    }
+  },
+  {
+    "code": "300084",
+    "name": "Hooghly Police Station 13",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-3483894",
+    "location": {
+      "lat": 22.9134,
+      "lng": 88.4034
+    }
+  },
+  {
+    "code": "300085",
+    "name": "Hooghly Police Station 14",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-2972341",
+    "location": {
+      "lat": 22.8618,
+      "lng": 88.3297
+    }
+  },
+  {
+    "code": "300086",
+    "name": "Hooghly Police Station 15",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-9551913",
+    "location": {
+      "lat": 22.9171,
+      "lng": 88.4407
+    }
+  },
+  {
+    "code": "300087",
+    "name": "Hooghly Police Station 16",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-6713419",
+    "location": {
+      "lat": 22.8726,
+      "lng": 88.4461
+    }
+  },
+  {
+    "code": "300088",
+    "name": "Hooghly Police Station 17",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-3231758",
+    "location": {
+      "lat": 22.8681,
+      "lng": 88.4128
+    }
+  },
+  {
+    "code": "300089",
+    "name": "Hooghly Police Station 18",
+    "district": "Hooghly",
+    "type": "General",
+    "contact": "033-7660185",
+    "location": {
+      "lat": 22.9273,
+      "lng": 88.3879
+    }
+  },
+  {
+    "code": "300090",
+    "name": "Howrah Sadar PS",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-4907174",
+    "location": {
+      "lat": 22.6215,
+      "lng": 88.3286
+    }
+  },
+  {
+    "code": "300091",
+    "name": "Howrah Women PS",
+    "district": "Howrah",
+    "type": "Women",
+    "contact": "033-5716787",
+    "location": {
+      "lat": 22.4986,
+      "lng": 88.3267
+    }
+  },
+  {
+    "code": "300092",
+    "name": "Howrah Cyber Crime PS",
+    "district": "Howrah",
+    "type": "Cyber",
+    "contact": "033-3685721",
+    "location": {
+      "lat": 22.5297,
+      "lng": 88.2145
+    }
+  },
+  {
+    "code": "300093",
+    "name": "Howrah Police Station 4",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-2460144",
+    "location": {
+      "lat": 22.5863,
+      "lng": 88.3285
+    }
+  },
+  {
+    "code": "300094",
+    "name": "Howrah Police Station 5",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-4316144",
+    "location": {
+      "lat": 22.69,
+      "lng": 88.1903
+    }
+  },
+  {
+    "code": "300095",
+    "name": "Howrah Police Station 6",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-9319738",
+    "location": {
+      "lat": 22.5812,
+      "lng": 88.2
+    }
+  },
+  {
+    "code": "300096",
+    "name": "Howrah Police Station 7",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-8371007",
+    "location": {
+      "lat": 22.6917,
+      "lng": 88.2075
+    }
+  },
+  {
+    "code": "300097",
+    "name": "Howrah Police Station 8",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-4893677",
+    "location": {
+      "lat": 22.5716,
+      "lng": 88.33
+    }
+  },
+  {
+    "code": "300098",
+    "name": "Howrah Police Station 9",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-4374144",
+    "location": {
+      "lat": 22.6221,
+      "lng": 88.3526
+    }
+  },
+  {
+    "code": "300099",
+    "name": "Howrah Police Station 10",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-5976370",
+    "location": {
+      "lat": 22.5756,
+      "lng": 88.1745
+    }
+  },
+  {
+    "code": "300100",
+    "name": "Howrah Police Station 11",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-7527482",
+    "location": {
+      "lat": 22.6596,
+      "lng": 88.2464
+    }
+  },
+  {
+    "code": "300101",
+    "name": "Howrah Police Station 12",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-2045872",
+    "location": {
+      "lat": 22.6506,
+      "lng": 88.2641
+    }
+  },
+  {
+    "code": "300102",
+    "name": "Howrah Police Station 13",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-8710084",
+    "location": {
+      "lat": 22.6534,
+      "lng": 88.3319
+    }
+  },
+  {
+    "code": "300103",
+    "name": "Howrah Police Station 14",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-7713942",
+    "location": {
+      "lat": 22.572,
+      "lng": 88.2187
+    }
+  },
+  {
+    "code": "300104",
+    "name": "Howrah Police Station 15",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-9886571",
+    "location": {
+      "lat": 22.5476,
+      "lng": 88.2849
+    }
+  },
+  {
+    "code": "300105",
+    "name": "Howrah Police Station 16",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-9173277",
+    "location": {
+      "lat": 22.5309,
+      "lng": 88.2357
+    }
+  },
+  {
+    "code": "300106",
+    "name": "Howrah Police Station 17",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-9314846",
+    "location": {
+      "lat": 22.6044,
+      "lng": 88.2858
+    }
+  },
+  {
+    "code": "300107",
+    "name": "Howrah Police Station 18",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-9818162",
+    "location": {
+      "lat": 22.5091,
+      "lng": 88.215
+    }
+  },
+  {
+    "code": "300108",
+    "name": "Howrah Police Station 19",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-6549192",
+    "location": {
+      "lat": 22.5277,
+      "lng": 88.2033
+    }
+  },
+  {
+    "code": "300109",
+    "name": "Howrah Police Station 20",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-8574510",
+    "location": {
+      "lat": 22.5726,
+      "lng": 88.216
+    }
+  },
+  {
+    "code": "300110",
+    "name": "Howrah Police Station 21",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-5708473",
+    "location": {
+      "lat": 22.6108,
+      "lng": 88.1979
+    }
+  },
+  {
+    "code": "300111",
+    "name": "Howrah Police Station 22",
+    "district": "Howrah",
+    "type": "General",
+    "contact": "033-8722719",
+    "location": {
+      "lat": 22.6055,
+      "lng": 88.2312
+    }
+  },
+  {
+    "code": "300112",
+    "name": "Jalpaiguri Sadar PS",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-3865005",
+    "location": {
+      "lat": 26.5258,
+      "lng": 88.7527
+    }
+  },
+  {
+    "code": "300113",
+    "name": "Jalpaiguri Women PS",
+    "district": "Jalpaiguri",
+    "type": "Women",
+    "contact": "033-7467406",
+    "location": {
+      "lat": 26.6307,
+      "lng": 88.7402
+    }
+  },
+  {
+    "code": "300114",
+    "name": "Jalpaiguri Cyber Crime PS",
+    "district": "Jalpaiguri",
+    "type": "Cyber",
+    "contact": "033-5705092",
+    "location": {
+      "lat": 26.5203,
+      "lng": 88.6441
+    }
+  },
+  {
+    "code": "300115",
+    "name": "Jalpaiguri Police Station 4",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-6753297",
+    "location": {
+      "lat": 26.578,
+      "lng": 88.7861
+    }
+  },
+  {
+    "code": "300116",
+    "name": "Jalpaiguri Police Station 5",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-4024934",
+    "location": {
+      "lat": 26.6322,
+      "lng": 88.6277
+    }
+  },
+  {
+    "code": "300117",
+    "name": "Jalpaiguri Police Station 6",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-7891639",
+    "location": {
+      "lat": 26.4726,
+      "lng": 88.8043
+    }
+  },
+  {
+    "code": "300118",
+    "name": "Jalpaiguri Police Station 7",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-2555033",
+    "location": {
+      "lat": 26.5375,
+      "lng": 88.7016
+    }
+  },
+  {
+    "code": "300119",
+    "name": "Jalpaiguri Police Station 8",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-2750389",
+    "location": {
+      "lat": 26.4618,
+      "lng": 88.6889
+    }
+  },
+  {
+    "code": "300120",
+    "name": "Jalpaiguri Police Station 9",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-4998647",
+    "location": {
+      "lat": 26.6337,
+      "lng": 88.6674
+    }
+  },
+  {
+    "code": "300121",
+    "name": "Jalpaiguri Police Station 10",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-3404220",
+    "location": {
+      "lat": 26.593,
+      "lng": 88.7205
+    }
+  },
+  {
+    "code": "300122",
+    "name": "Jalpaiguri Police Station 11",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-6583143",
+    "location": {
+      "lat": 26.5221,
+      "lng": 88.6625
+    }
+  },
+  {
+    "code": "300123",
+    "name": "Jalpaiguri Police Station 12",
+    "district": "Jalpaiguri",
+    "type": "General",
+    "contact": "033-6503694",
+    "location": {
+      "lat": 26.4596,
+      "lng": 88.6329
+    }
+  },
+  {
+    "code": "300124",
+    "name": "Jhargram Sadar PS",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-4959332",
+    "location": {
+      "lat": 22.4622,
+      "lng": 86.9984
+    }
+  },
+  {
+    "code": "300125",
+    "name": "Jhargram Women PS",
+    "district": "Jhargram",
+    "type": "Women",
+    "contact": "033-4534569",
+    "location": {
+      "lat": 22.4488,
+      "lng": 86.963
+    }
+  },
+  {
+    "code": "300126",
+    "name": "Jhargram Police Station",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-5111365",
+    "location": {
+      "lat": 22.4752,
+      "lng": 86.9984
+    }
+  },
+  {
+    "code": "300127",
+    "name": "Jhargram Police Station 4",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-7447551",
+    "location": {
+      "lat": 22.4139,
+      "lng": 87.0587
+    }
+  },
+  {
+    "code": "300128",
+    "name": "Jhargram Police Station 5",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-2540214",
+    "location": {
+      "lat": 22.5322,
+      "lng": 86.9146
+    }
+  },
+  {
+    "code": "300129",
+    "name": "Jhargram Police Station 6",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-5242697",
+    "location": {
+      "lat": 22.4581,
+      "lng": 87.0116
+    }
+  },
+  {
+    "code": "300130",
+    "name": "Jhargram Police Station 7",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-2298778",
+    "location": {
+      "lat": 22.4388,
+      "lng": 86.8935
+    }
+  },
+  {
+    "code": "300131",
+    "name": "Jhargram Police Station 8",
+    "district": "Jhargram",
+    "type": "General",
+    "contact": "033-8136738",
+    "location": {
+      "lat": 22.3887,
+      "lng": 86.9751
+    }
+  },
+  {
+    "code": "300132",
+    "name": "Kalimpong Sadar PS",
+    "district": "Kalimpong",
+    "type": "General",
+    "contact": "033-8827483",
+    "location": {
+      "lat": 27.1029,
+      "lng": 88.4614
+    }
+  },
+  {
+    "code": "300133",
+    "name": "Kalimpong Women PS",
+    "district": "Kalimpong",
+    "type": "Women",
+    "contact": "033-9804890",
+    "location": {
+      "lat": 27.0084,
+      "lng": 88.3729
+    }
+  },
+  {
+    "code": "300134",
+    "name": "Kalimpong Police Station",
+    "district": "Kalimpong",
+    "type": "General",
+    "contact": "033-9455828",
+    "location": {
+      "lat": 27.0177,
+      "lng": 88.4672
+    }
+  },
+  {
+    "code": "300135",
+    "name": "Kolkata Sadar PS",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-2587994",
+    "location": {
+      "lat": 22.5198,
+      "lng": 88.4313
+    }
+  },
+  {
+    "code": "300136",
+    "name": "Kolkata Women PS",
+    "district": "Kolkata",
+    "type": "Women",
+    "contact": "033-5527287",
+    "location": {
+      "lat": 22.577,
+      "lng": 88.3567
+    }
+  },
+  {
+    "code": "300137",
+    "name": "Kolkata Cyber Crime PS",
+    "district": "Kolkata",
+    "type": "Cyber",
+    "contact": "033-2254412",
+    "location": {
+      "lat": 22.5267,
+      "lng": 88.3525
+    }
+  },
+  {
+    "code": "300138",
+    "name": "Kolkata Police Station 4",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3874126",
+    "location": {
+      "lat": 22.6698,
+      "lng": 88.4338
+    }
+  },
+  {
+    "code": "300139",
+    "name": "Kolkata Police Station 5",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5150793",
+    "location": {
+      "lat": 22.5484,
+      "lng": 88.4341
+    }
+  },
+  {
+    "code": "300140",
+    "name": "Kolkata Police Station 6",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5906657",
+    "location": {
+      "lat": 22.6222,
+      "lng": 88.2868
+    }
+  },
+  {
+    "code": "300141",
+    "name": "Kolkata Police Station 7",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-6286891",
+    "location": {
+      "lat": 22.5269,
+      "lng": 88.3988
+    }
+  },
+  {
+    "code": "300142",
+    "name": "Kolkata Police Station 8",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4276242",
+    "location": {
+      "lat": 22.6371,
+      "lng": 88.3088
+    }
+  },
+  {
+    "code": "300143",
+    "name": "Kolkata Police Station 9",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9468382",
+    "location": {
+      "lat": 22.5231,
+      "lng": 88.3343
+    }
+  },
+  {
+    "code": "300144",
+    "name": "Kolkata Police Station 10",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8414547",
+    "location": {
+      "lat": 22.6506,
+      "lng": 88.3487
+    }
+  },
+  {
+    "code": "300145",
+    "name": "Kolkata Police Station 11",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5990076",
+    "location": {
+      "lat": 22.6163,
+      "lng": 88.4115
+    }
+  },
+  {
+    "code": "300146",
+    "name": "Kolkata Police Station 12",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5774660",
+    "location": {
+      "lat": 22.6,
+      "lng": 88.4044
+    }
+  },
+  {
+    "code": "300147",
+    "name": "Kolkata Police Station 13",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9368041",
+    "location": {
+      "lat": 22.6673,
+      "lng": 88.3708
+    }
+  },
+  {
+    "code": "300148",
+    "name": "Kolkata Police Station 14",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7818504",
+    "location": {
+      "lat": 22.521,
+      "lng": 88.3335
+    }
+  },
+  {
+    "code": "300149",
+    "name": "Kolkata Police Station 15",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4113399",
+    "location": {
+      "lat": 22.609,
+      "lng": 88.3781
+    }
+  },
+  {
+    "code": "300150",
+    "name": "Kolkata Police Station 16",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7836366",
+    "location": {
+      "lat": 22.5604,
+      "lng": 88.4353
+    }
+  },
+  {
+    "code": "300151",
+    "name": "Kolkata Police Station 17",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3664486",
+    "location": {
+      "lat": 22.6086,
+      "lng": 88.3888
+    }
+  },
+  {
+    "code": "300152",
+    "name": "Kolkata Police Station 18",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3922531",
+    "location": {
+      "lat": 22.4761,
+      "lng": 88.4299
+    }
+  },
+  {
+    "code": "300153",
+    "name": "Kolkata Police Station 19",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8735665",
+    "location": {
+      "lat": 22.5731,
+      "lng": 88.417
+    }
+  },
+  {
+    "code": "300154",
+    "name": "Kolkata Police Station 20",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-6701381",
+    "location": {
+      "lat": 22.5971,
+      "lng": 88.3308
+    }
+  },
+  {
+    "code": "300155",
+    "name": "Kolkata Police Station 21",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8181795",
+    "location": {
+      "lat": 22.615,
+      "lng": 88.4363
+    }
+  },
+  {
+    "code": "300156",
+    "name": "Kolkata Police Station 22",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4466054",
+    "location": {
+      "lat": 22.4741,
+      "lng": 88.3409
+    }
+  },
+  {
+    "code": "300157",
+    "name": "Kolkata Police Station 23",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-2603662",
+    "location": {
+      "lat": 22.5372,
+      "lng": 88.3186
+    }
+  },
+  {
+    "code": "300158",
+    "name": "Kolkata Police Station 24",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9911295",
+    "location": {
+      "lat": 22.4995,
+      "lng": 88.2892
+    }
+  },
+  {
+    "code": "300159",
+    "name": "Kolkata Police Station 25",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5722888",
+    "location": {
+      "lat": 22.5304,
+      "lng": 88.3926
+    }
+  },
+  {
+    "code": "300160",
+    "name": "Kolkata Police Station 26",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9910011",
+    "location": {
+      "lat": 22.5261,
+      "lng": 88.2937
+    }
+  },
+  {
+    "code": "300161",
+    "name": "Kolkata Police Station 27",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9977634",
+    "location": {
+      "lat": 22.6457,
+      "lng": 88.4321
+    }
+  },
+  {
+    "code": "300162",
+    "name": "Kolkata Police Station 28",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4150204",
+    "location": {
+      "lat": 22.5136,
+      "lng": 88.4398
+    }
+  },
+  {
+    "code": "300163",
+    "name": "Kolkata Police Station 29",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7467247",
+    "location": {
+      "lat": 22.5197,
+      "lng": 88.3341
+    }
+  },
+  {
+    "code": "300164",
+    "name": "Kolkata Police Station 30",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5906723",
+    "location": {
+      "lat": 22.6607,
+      "lng": 88.3715
+    }
+  },
+  {
+    "code": "300165",
+    "name": "Kolkata Police Station 31",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7216558",
+    "location": {
+      "lat": 22.557,
+      "lng": 88.408
+    }
+  },
+  {
+    "code": "300166",
+    "name": "Kolkata Police Station 32",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8814374",
+    "location": {
+      "lat": 22.5295,
+      "lng": 88.4282
+    }
+  },
+  {
+    "code": "300167",
+    "name": "Kolkata Police Station 33",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-6868344",
+    "location": {
+      "lat": 22.6707,
+      "lng": 88.2932
+    }
+  },
+  {
+    "code": "300168",
+    "name": "Kolkata Police Station 34",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8501815",
+    "location": {
+      "lat": 22.4952,
+      "lng": 88.4562
+    }
+  },
+  {
+    "code": "300169",
+    "name": "Kolkata Police Station 35",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3530779",
+    "location": {
+      "lat": 22.5284,
+      "lng": 88.3271
+    }
+  },
+  {
+    "code": "300170",
+    "name": "Kolkata Police Station 36",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9047120",
+    "location": {
+      "lat": 22.6026,
+      "lng": 88.4613
+    }
+  },
+  {
+    "code": "300171",
+    "name": "Kolkata Police Station 37",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5237619",
+    "location": {
+      "lat": 22.6676,
+      "lng": 88.3767
+    }
+  },
+  {
+    "code": "300172",
+    "name": "Kolkata Police Station 38",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8137372",
+    "location": {
+      "lat": 22.5684,
+      "lng": 88.2814
+    }
+  },
+  {
+    "code": "300173",
+    "name": "Kolkata Police Station 39",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4028975",
+    "location": {
+      "lat": 22.5611,
+      "lng": 88.3178
+    }
+  },
+  {
+    "code": "300174",
+    "name": "Kolkata Police Station 40",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7330351",
+    "location": {
+      "lat": 22.6471,
+      "lng": 88.3469
+    }
+  },
+  {
+    "code": "300175",
+    "name": "Kolkata Police Station 41",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-2416354",
+    "location": {
+      "lat": 22.543,
+      "lng": 88.4535
+    }
+  },
+  {
+    "code": "300176",
+    "name": "Kolkata Police Station 42",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4668872",
+    "location": {
+      "lat": 22.5319,
+      "lng": 88.4359
+    }
+  },
+  {
+    "code": "300177",
+    "name": "Kolkata Police Station 43",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7033191",
+    "location": {
+      "lat": 22.6061,
+      "lng": 88.3761
+    }
+  },
+  {
+    "code": "300178",
+    "name": "Kolkata Police Station 44",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5760104",
+    "location": {
+      "lat": 22.4819,
+      "lng": 88.2873
+    }
+  },
+  {
+    "code": "300179",
+    "name": "Kolkata Police Station 45",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7951909",
+    "location": {
+      "lat": 22.6193,
+      "lng": 88.3051
+    }
+  },
+  {
+    "code": "300180",
+    "name": "Kolkata Police Station 46",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3501411",
+    "location": {
+      "lat": 22.6154,
+      "lng": 88.341
+    }
+  },
+  {
+    "code": "300181",
+    "name": "Kolkata Police Station 47",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8866184",
+    "location": {
+      "lat": 22.5202,
+      "lng": 88.4377
+    }
+  },
+  {
+    "code": "300182",
+    "name": "Kolkata Police Station 48",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9188258",
+    "location": {
+      "lat": 22.5336,
+      "lng": 88.4326
+    }
+  },
+  {
+    "code": "300183",
+    "name": "Kolkata Police Station 49",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9576689",
+    "location": {
+      "lat": 22.6178,
+      "lng": 88.4315
+    }
+  },
+  {
+    "code": "300184",
+    "name": "Kolkata Police Station 50",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3887922",
+    "location": {
+      "lat": 22.5611,
+      "lng": 88.3736
+    }
+  },
+  {
+    "code": "300185",
+    "name": "Kolkata Police Station 51",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3674476",
+    "location": {
+      "lat": 22.6137,
+      "lng": 88.2828
+    }
+  },
+  {
+    "code": "300186",
+    "name": "Kolkata Police Station 52",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3921461",
+    "location": {
+      "lat": 22.5559,
+      "lng": 88.2949
+    }
+  },
+  {
+    "code": "300187",
+    "name": "Kolkata Police Station 53",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3449087",
+    "location": {
+      "lat": 22.5025,
+      "lng": 88.3458
+    }
+  },
+  {
+    "code": "300188",
+    "name": "Kolkata Police Station 54",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4490938",
+    "location": {
+      "lat": 22.5765,
+      "lng": 88.4421
+    }
+  },
+  {
+    "code": "300189",
+    "name": "Kolkata Police Station 55",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4267787",
+    "location": {
+      "lat": 22.4993,
+      "lng": 88.3819
+    }
+  },
+  {
+    "code": "300190",
+    "name": "Kolkata Police Station 56",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-8945150",
+    "location": {
+      "lat": 22.5585,
+      "lng": 88.4188
+    }
+  },
+  {
+    "code": "300191",
+    "name": "Kolkata Police Station 57",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4629532",
+    "location": {
+      "lat": 22.5395,
+      "lng": 88.2648
+    }
+  },
+  {
+    "code": "300192",
+    "name": "Kolkata Police Station 58",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7904143",
+    "location": {
+      "lat": 22.636,
+      "lng": 88.4445
+    }
+  },
+  {
+    "code": "300193",
+    "name": "Kolkata Police Station 59",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7268352",
+    "location": {
+      "lat": 22.5161,
+      "lng": 88.3534
+    }
+  },
+  {
+    "code": "300194",
+    "name": "Kolkata Police Station 60",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7607687",
+    "location": {
+      "lat": 22.6197,
+      "lng": 88.4216
+    }
+  },
+  {
+    "code": "300195",
+    "name": "Kolkata Police Station 61",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-5962871",
+    "location": {
+      "lat": 22.5028,
+      "lng": 88.2837
+    }
+  },
+  {
+    "code": "300196",
+    "name": "Kolkata Police Station 62",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3024193",
+    "location": {
+      "lat": 22.6607,
+      "lng": 88.3479
+    }
+  },
+  {
+    "code": "300197",
+    "name": "Kolkata Police Station 63",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-7372423",
+    "location": {
+      "lat": 22.491,
+      "lng": 88.4529
+    }
+  },
+  {
+    "code": "300198",
+    "name": "Kolkata Police Station 64",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-9686901",
+    "location": {
+      "lat": 22.5446,
+      "lng": 88.4524
+    }
+  },
+  {
+    "code": "300199",
+    "name": "Kolkata Police Station 65",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-2167352",
+    "location": {
+      "lat": 22.5442,
+      "lng": 88.3252
+    }
+  },
+  {
+    "code": "300200",
+    "name": "Kolkata Police Station 66",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-3398465",
+    "location": {
+      "lat": 22.5922,
+      "lng": 88.3415
+    }
+  },
+  {
+    "code": "300201",
+    "name": "Kolkata Police Station 67",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-2357528",
+    "location": {
+      "lat": 22.4833,
+      "lng": 88.4362
+    }
+  },
+  {
+    "code": "300202",
+    "name": "Kolkata Police Station 68",
+    "district": "Kolkata",
+    "type": "General",
+    "contact": "033-4759181",
+    "location": {
+      "lat": 22.6171,
+      "lng": 88.2735
+    }
+  },
+  {
+    "code": "300203",
+    "name": "Malda Sadar PS",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-4552127",
+    "location": {
+      "lat": 24.9764,
+      "lng": 88.0621
+    }
+  },
+  {
+    "code": "300204",
+    "name": "Malda Women PS",
+    "district": "Malda",
+    "type": "Women",
+    "contact": "033-9599281",
+    "location": {
+      "lat": 24.9127,
+      "lng": 88.0763
+    }
+  },
+  {
+    "code": "300205",
+    "name": "Malda Cyber Crime PS",
+    "district": "Malda",
+    "type": "Cyber",
+    "contact": "033-6987304",
+    "location": {
+      "lat": 24.985,
+      "lng": 88.2013
+    }
+  },
+  {
+    "code": "300206",
+    "name": "Malda Police Station 4",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-2446335",
+    "location": {
+      "lat": 24.9839,
+      "lng": 88.1514
+    }
+  },
+  {
+    "code": "300207",
+    "name": "Malda Police Station 5",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-6911254",
+    "location": {
+      "lat": 25.0406,
+      "lng": 88.2114
+    }
+  },
+  {
+    "code": "300208",
+    "name": "Malda Police Station 6",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-4141070",
+    "location": {
+      "lat": 25.0667,
+      "lng": 88.1527
+    }
+  },
+  {
+    "code": "300209",
+    "name": "Malda Police Station 7",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-3406016",
+    "location": {
+      "lat": 24.921,
+      "lng": 88.212
+    }
+  },
+  {
+    "code": "300210",
+    "name": "Malda Police Station 8",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-8316428",
+    "location": {
+      "lat": 25.0331,
+      "lng": 88.0843
+    }
+  },
+  {
+    "code": "300211",
+    "name": "Malda Police Station 9",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-5635958",
+    "location": {
+      "lat": 24.968,
+      "lng": 88.0475
+    }
+  },
+  {
+    "code": "300212",
+    "name": "Malda Police Station 10",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-5205625",
+    "location": {
+      "lat": 25.0868,
+      "lng": 88.2393
+    }
+  },
+  {
+    "code": "300213",
+    "name": "Malda Police Station 11",
+    "district": "Malda",
+    "type": "General",
+    "contact": "033-3602823",
+    "location": {
+      "lat": 24.97,
+      "lng": 88.1458
+    }
+  },
+  {
+    "code": "300214",
+    "name": "Murshidabad Sadar PS",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-9307769",
+    "location": {
+      "lat": 24.1964,
+      "lng": 88.3159
+    }
+  },
+  {
+    "code": "300215",
+    "name": "Murshidabad Women PS",
+    "district": "Murshidabad",
+    "type": "Women",
+    "contact": "033-6271251",
+    "location": {
+      "lat": 24.2613,
+      "lng": 88.2793
+    }
+  },
+  {
+    "code": "300216",
+    "name": "Murshidabad Cyber Crime PS",
+    "district": "Murshidabad",
+    "type": "Cyber",
+    "contact": "033-5675091",
+    "location": {
+      "lat": 24.1762,
+      "lng": 88.2661
+    }
+  },
+  {
+    "code": "300217",
+    "name": "Murshidabad Police Station 4",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-4853250",
+    "location": {
+      "lat": 24.2703,
+      "lng": 88.2287
+    }
+  },
+  {
+    "code": "300218",
+    "name": "Murshidabad Police Station 5",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-7130108",
+    "location": {
+      "lat": 24.2748,
+      "lng": 88.299
+    }
+  },
+  {
+    "code": "300219",
+    "name": "Murshidabad Police Station 6",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-6583697",
+    "location": {
+      "lat": 24.2319,
+      "lng": 88.319
+    }
+  },
+  {
+    "code": "300220",
+    "name": "Murshidabad Police Station 7",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-2863992",
+    "location": {
+      "lat": 24.2206,
+      "lng": 88.1818
+    }
+  },
+  {
+    "code": "300221",
+    "name": "Murshidabad Police Station 8",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-8348799",
+    "location": {
+      "lat": 24.1866,
+      "lng": 88.2487
+    }
+  },
+  {
+    "code": "300222",
+    "name": "Murshidabad Police Station 9",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-6551071",
+    "location": {
+      "lat": 24.2613,
+      "lng": 88.3489
+    }
+  },
+  {
+    "code": "300223",
+    "name": "Murshidabad Police Station 10",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-6594601",
+    "location": {
+      "lat": 24.0761,
+      "lng": 88.2449
+    }
+  },
+  {
+    "code": "300224",
+    "name": "Murshidabad Police Station 11",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-2982266",
+    "location": {
+      "lat": 24.1264,
+      "lng": 88.3002
+    }
+  },
+  {
+    "code": "300225",
+    "name": "Murshidabad Police Station 12",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-9066850",
+    "location": {
+      "lat": 24.0945,
+      "lng": 88.2364
+    }
+  },
+  {
+    "code": "300226",
+    "name": "Murshidabad Police Station 13",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-8079328",
+    "location": {
+      "lat": 24.0851,
+      "lng": 88.2953
+    }
+  },
+  {
+    "code": "300227",
+    "name": "Murshidabad Police Station 14",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-2392900",
+    "location": {
+      "lat": 24.2367,
+      "lng": 88.3661
+    }
+  },
+  {
+    "code": "300228",
+    "name": "Murshidabad Police Station 15",
+    "district": "Murshidabad",
+    "type": "General",
+    "contact": "033-4197773",
+    "location": {
+      "lat": 24.2397,
+      "lng": 88.3287
+    }
+  },
+  {
+    "code": "300229",
+    "name": "Nadia Sadar PS",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-2794322",
+    "location": {
+      "lat": 23.4426,
+      "lng": 88.5428
+    }
+  },
+  {
+    "code": "300230",
+    "name": "Nadia Women PS",
+    "district": "Nadia",
+    "type": "Women",
+    "contact": "033-9075135",
+    "location": {
+      "lat": 23.4652,
+      "lng": 88.481
+    }
+  },
+  {
+    "code": "300231",
+    "name": "Nadia Cyber Crime PS",
+    "district": "Nadia",
+    "type": "Cyber",
+    "contact": "033-6898571",
+    "location": {
+      "lat": 23.3745,
+      "lng": 88.6532
+    }
+  },
+  {
+    "code": "300232",
+    "name": "Nadia Police Station 4",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-2639432",
+    "location": {
+      "lat": 23.4941,
+      "lng": 88.5882
+    }
+  },
+  {
+    "code": "300233",
+    "name": "Nadia Police Station 5",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-6615734",
+    "location": {
+      "lat": 23.4698,
+      "lng": 88.6467
+    }
+  },
+  {
+    "code": "300234",
+    "name": "Nadia Police Station 6",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-9741786",
+    "location": {
+      "lat": 23.4436,
+      "lng": 88.59
+    }
+  },
+  {
+    "code": "300235",
+    "name": "Nadia Police Station 7",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-4831902",
+    "location": {
+      "lat": 23.3955,
+      "lng": 88.6315
+    }
+  },
+  {
+    "code": "300236",
+    "name": "Nadia Police Station 8",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-4501508",
+    "location": {
+      "lat": 23.5578,
+      "lng": 88.5843
+    }
+  },
+  {
+    "code": "300237",
+    "name": "Nadia Police Station 9",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-2237290",
+    "location": {
+      "lat": 23.5252,
+      "lng": 88.577
+    }
+  },
+  {
+    "code": "300238",
+    "name": "Nadia Police Station 10",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-4490896",
+    "location": {
+      "lat": 23.4576,
+      "lng": 88.5219
+    }
+  },
+  {
+    "code": "300239",
+    "name": "Nadia Police Station 11",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-2112059",
+    "location": {
+      "lat": 23.5174,
+      "lng": 88.589
+    }
+  },
+  {
+    "code": "300240",
+    "name": "Nadia Police Station 12",
+    "district": "Nadia",
+    "type": "General",
+    "contact": "033-2542868",
+    "location": {
+      "lat": 23.4877,
+      "lng": 88.4745
+    }
+  },
+  {
+    "code": "300241",
+    "name": "North 24 Parganas Sadar PS",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4461418",
+    "location": {
+      "lat": 22.7581,
+      "lng": 88.3659
+    }
+  },
+  {
+    "code": "300242",
+    "name": "North 24 Parganas Women PS",
+    "district": "North 24 Parganas",
+    "type": "Women",
+    "contact": "033-9458854",
+    "location": {
+      "lat": 22.7999,
+      "lng": 88.4313
+    }
+  },
+  {
+    "code": "300243",
+    "name": "North 24 Parganas Cyber Crime PS",
+    "district": "North 24 Parganas",
+    "type": "Cyber",
+    "contact": "033-4316021",
+    "location": {
+      "lat": 22.7605,
+      "lng": 88.4289
+    }
+  },
+  {
+    "code": "300244",
+    "name": "North 24 Parganas Police Station 4",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-3477374",
+    "location": {
+      "lat": 22.7319,
+      "lng": 88.4235
+    }
+  },
+  {
+    "code": "300245",
+    "name": "North 24 Parganas Police Station 5",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-9652214",
+    "location": {
+      "lat": 22.8408,
+      "lng": 88.2949
+    }
+  },
+  {
+    "code": "300246",
+    "name": "North 24 Parganas Police Station 6",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-7867617",
+    "location": {
+      "lat": 22.7062,
+      "lng": 88.4785
+    }
+  },
+  {
+    "code": "300247",
+    "name": "North 24 Parganas Police Station 7",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-5859977",
+    "location": {
+      "lat": 22.797,
+      "lng": 88.4369
+    }
+  },
+  {
+    "code": "300248",
+    "name": "North 24 Parganas Police Station 8",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4499189",
+    "location": {
+      "lat": 22.6733,
+      "lng": 88.4617
+    }
+  },
+  {
+    "code": "300249",
+    "name": "North 24 Parganas Police Station 9",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4873478",
+    "location": {
+      "lat": 22.7343,
+      "lng": 88.3175
+    }
+  },
+  {
+    "code": "300250",
+    "name": "North 24 Parganas Police Station 10",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4110057",
+    "location": {
+      "lat": 22.7466,
+      "lng": 88.308
+    }
+  },
+  {
+    "code": "300251",
+    "name": "North 24 Parganas Police Station 11",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4691319",
+    "location": {
+      "lat": 22.7031,
+      "lng": 88.2935
+    }
+  },
+  {
+    "code": "300252",
+    "name": "North 24 Parganas Police Station 12",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4752481",
+    "location": {
+      "lat": 22.7519,
+      "lng": 88.3759
+    }
+  },
+  {
+    "code": "300253",
+    "name": "North 24 Parganas Police Station 13",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-6593682",
+    "location": {
+      "lat": 22.7993,
+      "lng": 88.2943
+    }
+  },
+  {
+    "code": "300254",
+    "name": "North 24 Parganas Police Station 14",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-5860482",
+    "location": {
+      "lat": 22.8484,
+      "lng": 88.3671
+    }
+  },
+  {
+    "code": "300255",
+    "name": "North 24 Parganas Police Station 15",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-3374109",
+    "location": {
+      "lat": 22.7401,
+      "lng": 88.3936
+    }
+  },
+  {
+    "code": "300256",
+    "name": "North 24 Parganas Police Station 16",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-9223239",
+    "location": {
+      "lat": 22.6759,
+      "lng": 88.3518
+    }
+  },
+  {
+    "code": "300257",
+    "name": "North 24 Parganas Police Station 17",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-3969973",
+    "location": {
+      "lat": 22.739,
+      "lng": 88.4392
+    }
+  },
+  {
+    "code": "300258",
+    "name": "North 24 Parganas Police Station 18",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-6080284",
+    "location": {
+      "lat": 22.681,
+      "lng": 88.319
+    }
+  },
+  {
+    "code": "300259",
+    "name": "North 24 Parganas Police Station 19",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-6041450",
+    "location": {
+      "lat": 22.7278,
+      "lng": 88.2874
+    }
+  },
+  {
+    "code": "300260",
+    "name": "North 24 Parganas Police Station 20",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-6022573",
+    "location": {
+      "lat": 22.8204,
+      "lng": 88.4734
+    }
+  },
+  {
+    "code": "300261",
+    "name": "North 24 Parganas Police Station 21",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-9030361",
+    "location": {
+      "lat": 22.8411,
+      "lng": 88.4783
+    }
+  },
+  {
+    "code": "300262",
+    "name": "North 24 Parganas Police Station 22",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-3681422",
+    "location": {
+      "lat": 22.8105,
+      "lng": 88.3738
+    }
+  },
+  {
+    "code": "300263",
+    "name": "North 24 Parganas Police Station 23",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-3240658",
+    "location": {
+      "lat": 22.8054,
+      "lng": 88.4524
+    }
+  },
+  {
+    "code": "300264",
+    "name": "North 24 Parganas Police Station 24",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-4937594",
+    "location": {
+      "lat": 22.8178,
+      "lng": 88.4628
+    }
+  },
+  {
+    "code": "300265",
+    "name": "North 24 Parganas Police Station 25",
+    "district": "North 24 Parganas",
+    "type": "General",
+    "contact": "033-5738882",
+    "location": {
+      "lat": 22.8037,
+      "lng": 88.3344
+    }
+  },
+  {
+    "code": "300266",
+    "name": "Paschim Bardhaman Sadar PS",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-8902319",
+    "location": {
+      "lat": 23.6012,
+      "lng": 87.0821
+    }
+  },
+  {
+    "code": "300267",
+    "name": "Paschim Bardhaman Women PS",
+    "district": "Paschim Bardhaman",
+    "type": "Women",
+    "contact": "033-4088141",
+    "location": {
+      "lat": 23.6714,
+      "lng": 86.9926
+    }
+  },
+  {
+    "code": "300268",
+    "name": "Paschim Bardhaman Police Station",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-5775107",
+    "location": {
+      "lat": 23.6098,
+      "lng": 87.1422
+    }
+  },
+  {
+    "code": "300269",
+    "name": "Paschim Bardhaman Police Station 4",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-8999656",
+    "location": {
+      "lat": 23.6858,
+      "lng": 87.0823
+    }
+  },
+  {
+    "code": "300270",
+    "name": "Paschim Bardhaman Police Station 5",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-2182531",
+    "location": {
+      "lat": 23.7832,
+      "lng": 87.051
+    }
+  },
+  {
+    "code": "300271",
+    "name": "Paschim Bardhaman Police Station 6",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-7320836",
+    "location": {
+      "lat": 23.6112,
+      "lng": 87.152
+    }
+  },
+  {
+    "code": "300272",
+    "name": "Paschim Bardhaman Police Station 7",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-6229447",
+    "location": {
+      "lat": 23.7507,
+      "lng": 87.0772
+    }
+  },
+  {
+    "code": "300273",
+    "name": "Paschim Bardhaman Police Station 8",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-6514610",
+    "location": {
+      "lat": 23.7833,
+      "lng": 87.074
+    }
+  },
+  {
+    "code": "300274",
+    "name": "Paschim Bardhaman Police Station 9",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-6558029",
+    "location": {
+      "lat": 23.7566,
+      "lng": 87.1008
+    }
+  },
+  {
+    "code": "300275",
+    "name": "Paschim Bardhaman Police Station 10",
+    "district": "Paschim Bardhaman",
+    "type": "General",
+    "contact": "033-2259781",
+    "location": {
+      "lat": 23.7448,
+      "lng": 87.119
+    }
+  },
+  {
+    "code": "300276",
+    "name": "Paschim Medinipur Sadar PS",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-2661742",
+    "location": {
+      "lat": 22.4237,
+      "lng": 87.3508
+    }
+  },
+  {
+    "code": "300277",
+    "name": "Paschim Medinipur Women PS",
+    "district": "Paschim Medinipur",
+    "type": "Women",
+    "contact": "033-9028847",
+    "location": {
+      "lat": 22.3322,
+      "lng": 87.3569
+    }
+  },
+  {
+    "code": "300278",
+    "name": "Paschim Medinipur Cyber Crime PS",
+    "district": "Paschim Medinipur",
+    "type": "Cyber",
+    "contact": "033-8207928",
+    "location": {
+      "lat": 22.3702,
+      "lng": 87.3958
+    }
+  },
+  {
+    "code": "300279",
+    "name": "Paschim Medinipur Police Station 4",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-5500036",
+    "location": {
+      "lat": 22.3741,
+      "lng": 87.4209
+    }
+  },
+  {
+    "code": "300280",
+    "name": "Paschim Medinipur Police Station 5",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-6278707",
+    "location": {
+      "lat": 22.4382,
+      "lng": 87.3477
+    }
+  },
+  {
+    "code": "300281",
+    "name": "Paschim Medinipur Police Station 6",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-3802209",
+    "location": {
+      "lat": 22.4263,
+      "lng": 87.3703
+    }
+  },
+  {
+    "code": "300282",
+    "name": "Paschim Medinipur Police Station 7",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-6469332",
+    "location": {
+      "lat": 22.345,
+      "lng": 87.2501
+    }
+  },
+  {
+    "code": "300283",
+    "name": "Paschim Medinipur Police Station 8",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-3329734",
+    "location": {
+      "lat": 22.5101,
+      "lng": 87.3071
+    }
+  },
+  {
+    "code": "300284",
+    "name": "Paschim Medinipur Police Station 9",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-2246662",
+    "location": {
+      "lat": 22.3504,
+      "lng": 87.3635
+    }
+  },
+  {
+    "code": "300285",
+    "name": "Paschim Medinipur Police Station 10",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-5715488",
+    "location": {
+      "lat": 22.4367,
+      "lng": 87.2971
+    }
+  },
+  {
+    "code": "300286",
+    "name": "Paschim Medinipur Police Station 11",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-6052843",
+    "location": {
+      "lat": 22.3963,
+      "lng": 87.234
+    }
+  },
+  {
+    "code": "300287",
+    "name": "Paschim Medinipur Police Station 12",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-2979825",
+    "location": {
+      "lat": 22.3516,
+      "lng": 87.2733
+    }
+  },
+  {
+    "code": "300288",
+    "name": "Paschim Medinipur Police Station 13",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-3139642",
+    "location": {
+      "lat": 22.4125,
+      "lng": 87.3031
+    }
+  },
+  {
+    "code": "300289",
+    "name": "Paschim Medinipur Police Station 14",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-8225246",
+    "location": {
+      "lat": 22.4117,
+      "lng": 87.24
+    }
+  },
+  {
+    "code": "300290",
+    "name": "Paschim Medinipur Police Station 15",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-9937778",
+    "location": {
+      "lat": 22.3349,
+      "lng": 87.256
+    }
+  },
+  {
+    "code": "300291",
+    "name": "Paschim Medinipur Police Station 16",
+    "district": "Paschim Medinipur",
+    "type": "General",
+    "contact": "033-8226984",
+    "location": {
+      "lat": 22.3283,
+      "lng": 87.2611
+    }
+  },
+  {
+    "code": "300292",
+    "name": "Purba Bardhaman Sadar PS",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-3027031",
+    "location": {
+      "lat": 23.3305,
+      "lng": 87.8381
+    }
+  },
+  {
+    "code": "300293",
+    "name": "Purba Bardhaman Women PS",
+    "district": "Purba Bardhaman",
+    "type": "Women",
+    "contact": "033-6078750",
+    "location": {
+      "lat": 23.273,
+      "lng": 87.9087
+    }
+  },
+  {
+    "code": "300294",
+    "name": "Purba Bardhaman Cyber Crime PS",
+    "district": "Purba Bardhaman",
+    "type": "Cyber",
+    "contact": "033-9416357",
+    "location": {
+      "lat": 23.1536,
+      "lng": 87.8898
+    }
+  },
+  {
+    "code": "300295",
+    "name": "Purba Bardhaman Police Station 4",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-8776149",
+    "location": {
+      "lat": 23.2418,
+      "lng": 87.7794
+    }
+  },
+  {
+    "code": "300296",
+    "name": "Purba Bardhaman Police Station 5",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-3059205",
+    "location": {
+      "lat": 23.194,
+      "lng": 87.8258
+    }
+  },
+  {
+    "code": "300297",
+    "name": "Purba Bardhaman Police Station 6",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-2817916",
+    "location": {
+      "lat": 23.3101,
+      "lng": 87.8811
+    }
+  },
+  {
+    "code": "300298",
+    "name": "Purba Bardhaman Police Station 7",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-5844025",
+    "location": {
+      "lat": 23.2376,
+      "lng": 87.8678
+    }
+  },
+  {
+    "code": "300299",
+    "name": "Purba Bardhaman Police Station 8",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-3620171",
+    "location": {
+      "lat": 23.1374,
+      "lng": 87.8439
+    }
+  },
+  {
+    "code": "300300",
+    "name": "Purba Bardhaman Police Station 9",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-4289921",
+    "location": {
+      "lat": 23.194,
+      "lng": 87.8068
+    }
+  },
+  {
+    "code": "300301",
+    "name": "Purba Bardhaman Police Station 10",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-7275716",
+    "location": {
+      "lat": 23.1963,
+      "lng": 87.9248
+    }
+  },
+  {
+    "code": "300302",
+    "name": "Purba Bardhaman Police Station 11",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-8241412",
+    "location": {
+      "lat": 23.158,
+      "lng": 87.9384
+    }
+  },
+  {
+    "code": "300303",
+    "name": "Purba Bardhaman Police Station 12",
+    "district": "Purba Bardhaman",
+    "type": "General",
+    "contact": "033-3377643",
+    "location": {
+      "lat": 23.2901,
+      "lng": 87.9469
+    }
+  },
+  {
+    "code": "300304",
+    "name": "Purba Medinipur Sadar PS",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-8224498",
+    "location": {
+      "lat": 21.8564,
+      "lng": 87.8265
+    }
+  },
+  {
+    "code": "300305",
+    "name": "Purba Medinipur Women PS",
+    "district": "Purba Medinipur",
+    "type": "Women",
+    "contact": "033-3626306",
+    "location": {
+      "lat": 21.9822,
+      "lng": 87.7241
+    }
+  },
+  {
+    "code": "300306",
+    "name": "Purba Medinipur Cyber Crime PS",
+    "district": "Purba Medinipur",
+    "type": "Cyber",
+    "contact": "033-6915571",
+    "location": {
+      "lat": 21.8723,
+      "lng": 87.7367
+    }
+  },
+  {
+    "code": "300307",
+    "name": "Purba Medinipur Police Station 4",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-2114783",
+    "location": {
+      "lat": 21.9878,
+      "lng": 87.7922
+    }
+  },
+  {
+    "code": "300308",
+    "name": "Purba Medinipur Police Station 5",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-8812507",
+    "location": {
+      "lat": 21.9109,
+      "lng": 87.7186
+    }
+  },
+  {
+    "code": "300309",
+    "name": "Purba Medinipur Police Station 6",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-7499285",
+    "location": {
+      "lat": 21.8625,
+      "lng": 87.6736
+    }
+  },
+  {
+    "code": "300310",
+    "name": "Purba Medinipur Police Station 7",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-2657853",
+    "location": {
+      "lat": 22.0213,
+      "lng": 87.6629
+    }
+  },
+  {
+    "code": "300311",
+    "name": "Purba Medinipur Police Station 8",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-4791258",
+    "location": {
+      "lat": 21.8715,
+      "lng": 87.7152
+    }
+  },
+  {
+    "code": "300312",
+    "name": "Purba Medinipur Police Station 9",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-8220171",
+    "location": {
+      "lat": 21.9659,
+      "lng": 87.6488
+    }
+  },
+  {
+    "code": "300313",
+    "name": "Purba Medinipur Police Station 10",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-5737656",
+    "location": {
+      "lat": 21.8883,
+      "lng": 87.6703
+    }
+  },
+  {
+    "code": "300314",
+    "name": "Purba Medinipur Police Station 11",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-7302948",
+    "location": {
+      "lat": 22.0201,
+      "lng": 87.6845
+    }
+  },
+  {
+    "code": "300315",
+    "name": "Purba Medinipur Police Station 12",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-9645975",
+    "location": {
+      "lat": 21.9473,
+      "lng": 87.7395
+    }
+  },
+  {
+    "code": "300316",
+    "name": "Purba Medinipur Police Station 13",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-4880117",
+    "location": {
+      "lat": 21.8736,
+      "lng": 87.734
+    }
+  },
+  {
+    "code": "300317",
+    "name": "Purba Medinipur Police Station 14",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-6193691",
+    "location": {
+      "lat": 22.0108,
+      "lng": 87.7115
+    }
+  },
+  {
+    "code": "300318",
+    "name": "Purba Medinipur Police Station 15",
+    "district": "Purba Medinipur",
+    "type": "General",
+    "contact": "033-9880220",
+    "location": {
+      "lat": 21.9833,
+      "lng": 87.7045
+    }
+  },
+  {
+    "code": "300319",
+    "name": "Purulia Sadar PS",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-7537934",
+    "location": {
+      "lat": 23.4308,
+      "lng": 86.3489
+    }
+  },
+  {
+    "code": "300320",
+    "name": "Purulia Women PS",
+    "district": "Purulia",
+    "type": "Women",
+    "contact": "033-7043066",
+    "location": {
+      "lat": 23.3043,
+      "lng": 86.4392
+    }
+  },
+  {
+    "code": "300321",
+    "name": "Purulia Police Station",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-2065963",
+    "location": {
+      "lat": 23.3712,
+      "lng": 86.3167
+    }
+  },
+  {
+    "code": "300322",
+    "name": "Purulia Police Station 4",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-6913724",
+    "location": {
+      "lat": 23.3101,
+      "lng": 86.3625
+    }
+  },
+  {
+    "code": "300323",
+    "name": "Purulia Police Station 5",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-4111143",
+    "location": {
+      "lat": 23.3057,
+      "lng": 86.28
+    }
+  },
+  {
+    "code": "300324",
+    "name": "Purulia Police Station 6",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-3272225",
+    "location": {
+      "lat": 23.3626,
+      "lng": 86.2797
+    }
+  },
+  {
+    "code": "300325",
+    "name": "Purulia Police Station 7",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-3451840",
+    "location": {
+      "lat": 23.2673,
+      "lng": 86.2938
+    }
+  },
+  {
+    "code": "300326",
+    "name": "Purulia Police Station 8",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-3752968",
+    "location": {
+      "lat": 23.25,
+      "lng": 86.2855
+    }
+  },
+  {
+    "code": "300327",
+    "name": "Purulia Police Station 9",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-7307464",
+    "location": {
+      "lat": 23.3909,
+      "lng": 86.4108
+    }
+  },
+  {
+    "code": "300328",
+    "name": "Purulia Police Station 10",
+    "district": "Purulia",
+    "type": "General",
+    "contact": "033-9587075",
+    "location": {
+      "lat": 23.328,
+      "lng": 86.3518
+    }
+  },
+  {
+    "code": "300329",
+    "name": "South 24 Parganas Sadar PS",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-5961519",
+    "location": {
+      "lat": 22.1504,
+      "lng": 88.404
+    }
+  },
+  {
+    "code": "300330",
+    "name": "South 24 Parganas Women PS",
+    "district": "South 24 Parganas",
+    "type": "Women",
+    "contact": "033-6558133",
+    "location": {
+      "lat": 22.0335,
+      "lng": 88.4409
+    }
+  },
+  {
+    "code": "300331",
+    "name": "South 24 Parganas Cyber Crime PS",
+    "district": "South 24 Parganas",
+    "type": "Cyber",
+    "contact": "033-2502973",
+    "location": {
+      "lat": 22.1396,
+      "lng": 88.3598
+    }
+  },
+  {
+    "code": "300332",
+    "name": "South 24 Parganas Police Station 4",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-4083615",
+    "location": {
+      "lat": 22.198,
+      "lng": 88.2561
+    }
+  },
+  {
+    "code": "300333",
+    "name": "South 24 Parganas Police Station 5",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-8572087",
+    "location": {
+      "lat": 22.1468,
+      "lng": 88.3584
+    }
+  },
+  {
+    "code": "300334",
+    "name": "South 24 Parganas Police Station 6",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-7718080",
+    "location": {
+      "lat": 22.0613,
+      "lng": 88.4057
+    }
+  },
+  {
+    "code": "300335",
+    "name": "South 24 Parganas Police Station 7",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-9066172",
+    "location": {
+      "lat": 22.2126,
+      "lng": 88.3916
+    }
+  },
+  {
+    "code": "300336",
+    "name": "South 24 Parganas Police Station 8",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-8114493",
+    "location": {
+      "lat": 22.0597,
+      "lng": 88.4434
+    }
+  },
+  {
+    "code": "300337",
+    "name": "South 24 Parganas Police Station 9",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-5850322",
+    "location": {
+      "lat": 22.0492,
+      "lng": 88.3004
+    }
+  },
+  {
+    "code": "300338",
+    "name": "South 24 Parganas Police Station 10",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-8965573",
+    "location": {
+      "lat": 22.1708,
+      "lng": 88.2679
+    }
+  },
+  {
+    "code": "300339",
+    "name": "South 24 Parganas Police Station 11",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-7408864",
+    "location": {
+      "lat": 22.0492,
+      "lng": 88.4219
+    }
+  },
+  {
+    "code": "300340",
+    "name": "South 24 Parganas Police Station 12",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-3370388",
+    "location": {
+      "lat": 22.1093,
+      "lng": 88.313
+    }
+  },
+  {
+    "code": "300341",
+    "name": "South 24 Parganas Police Station 13",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-5852242",
+    "location": {
+      "lat": 22.0795,
+      "lng": 88.4125
+    }
+  },
+  {
+    "code": "300342",
+    "name": "South 24 Parganas Police Station 14",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-2895101",
+    "location": {
+      "lat": 22.0497,
+      "lng": 88.3009
+    }
+  },
+  {
+    "code": "300343",
+    "name": "South 24 Parganas Police Station 15",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-4240159",
+    "location": {
+      "lat": 22.0491,
+      "lng": 88.3187
+    }
+  },
+  {
+    "code": "300344",
+    "name": "South 24 Parganas Police Station 16",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-4744248",
+    "location": {
+      "lat": 22.0917,
+      "lng": 88.372
+    }
+  },
+  {
+    "code": "300345",
+    "name": "South 24 Parganas Police Station 17",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-4813886",
+    "location": {
+      "lat": 22.202,
+      "lng": 88.4041
+    }
+  },
+  {
+    "code": "300346",
+    "name": "South 24 Parganas Police Station 18",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-3662024",
+    "location": {
+      "lat": 22.1561,
+      "lng": 88.3626
+    }
+  },
+  {
+    "code": "300347",
+    "name": "South 24 Parganas Police Station 19",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-6683991",
+    "location": {
+      "lat": 22.1626,
+      "lng": 88.3815
+    }
+  },
+  {
+    "code": "300348",
+    "name": "South 24 Parganas Police Station 20",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-2238223",
+    "location": {
+      "lat": 22.1244,
+      "lng": 88.3414
+    }
+  },
+  {
+    "code": "300349",
+    "name": "South 24 Parganas Police Station 21",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-9024104",
+    "location": {
+      "lat": 22.1229,
+      "lng": 88.287
+    }
+  },
+  {
+    "code": "300350",
+    "name": "South 24 Parganas Police Station 22",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-6526288",
+    "location": {
+      "lat": 22.1447,
+      "lng": 88.2885
+    }
+  },
+  {
+    "code": "300351",
+    "name": "South 24 Parganas Police Station 23",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-9761936",
+    "location": {
+      "lat": 22.093,
+      "lng": 88.3078
+    }
+  },
+  {
+    "code": "300352",
+    "name": "South 24 Parganas Police Station 24",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-4334376",
+    "location": {
+      "lat": 22.2287,
+      "lng": 88.3627
+    }
+  },
+  {
+    "code": "300353",
+    "name": "South 24 Parganas Police Station 25",
+    "district": "South 24 Parganas",
+    "type": "General",
+    "contact": "033-7148070",
+    "location": {
+      "lat": 22.1138,
+      "lng": 88.3576
+    }
+  },
+  {
+    "code": "300354",
+    "name": "Uttar Dinajpur Sadar PS",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-8590887",
+    "location": {
+      "lat": 25.9782,
+      "lng": 88.0995
+    }
+  },
+  {
+    "code": "300355",
+    "name": "Uttar Dinajpur Women PS",
+    "district": "Uttar Dinajpur",
+    "type": "Women",
+    "contact": "033-7207646",
+    "location": {
+      "lat": 25.9992,
+      "lng": 88.0227
+    }
+  },
+  {
+    "code": "300356",
+    "name": "Uttar Dinajpur Police Station",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-3187167",
+    "location": {
+      "lat": 26.0652,
+      "lng": 88.0497
+    }
+  },
+  {
+    "code": "300357",
+    "name": "Uttar Dinajpur Police Station 4",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-4597396",
+    "location": {
+      "lat": 26.0454,
+      "lng": 88.0686
+    }
+  },
+  {
+    "code": "300358",
+    "name": "Uttar Dinajpur Police Station 5",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-4981640",
+    "location": {
+      "lat": 25.9537,
+      "lng": 88.1497
+    }
+  },
+  {
+    "code": "300359",
+    "name": "Uttar Dinajpur Police Station 6",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-6492934",
+    "location": {
+      "lat": 25.9868,
+      "lng": 88.0747
+    }
+  },
+  {
+    "code": "300360",
+    "name": "Uttar Dinajpur Police Station 7",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-2693389",
+    "location": {
+      "lat": 26.0808,
+      "lng": 87.9992
+    }
+  },
+  {
+    "code": "300361",
+    "name": "Uttar Dinajpur Police Station 8",
+    "district": "Uttar Dinajpur",
+    "type": "General",
+    "contact": "033-9977182",
+    "location": {
+      "lat": 26.004,
+      "lng": 88.0233
+    }
+  }
+]

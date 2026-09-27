@@ -20,7 +20,7 @@ import Chatbot from './components/Chatbot';
 import FeatureModals, { ActiveModalType } from './components/FeatureModals';
 import PoliceStationController from './components/PoliceStationController';
 import UserAuthModal from './components/UserAuthModal';
-import { ShieldCheck, Phone, Info, Globe, Users, Heart, Radio, Car, Download, CheckCircle, ExternalLink } from 'lucide-react';
+import { ShieldCheck, Phone, Info, Globe, Users, Heart, Radio, Car } from 'lucide-react';
 import { motion } from 'motion/react';
 
 function AppContent() {
@@ -31,29 +31,6 @@ function AppContent() {
   const [activeModal, setActiveModal] = useState<ActiveModalType>(null);
   const [showPoliceController, setShowPoliceController] = useState(false);
   const [showUserAuthModal, setShowUserAuthModal] = useState(false);
-  const [isDeployBannerDismissed, setIsDeployBannerDismissed] = useState(false);
-  const [downloading, setDownloading] = useState(false);
-
-  const handleDownloadZip = async () => {
-    setDownloading(true);
-    try {
-      const res = await fetch('/api/download-zip');
-      if (!res.ok) throw new Error('Download failed');
-      const blob = await res.blob();
-      const url = window.URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'nirbhaya_sathi_deploy.zip';
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
-      document.body.removeChild(a);
-    } catch (err) {
-      window.location.href = '/api/download-zip';
-    } finally {
-      setTimeout(() => setDownloading(false), 2000);
-    }
-  };
 
   const activeAlertsCount = allPoliceAlerts.filter(a => a.status === 'PENDING' || a.status === 'EN_ROUTE' || a.status === 'DISPATCHED').length;
 
@@ -72,51 +49,6 @@ function AppContent() {
       />
       
       <main className="pt-24 px-4 max-w-7xl mx-auto space-y-12">
-        {/* Render & GitHub Ready Deployment ZIP Banner */}
-        {!isDeployBannerDismissed && (
-          <motion.div
-            initial={{ opacity: 0, y: -8 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="bg-gradient-to-r from-emerald-900 via-teal-900 to-slate-900 border border-emerald-500/40 rounded-3xl p-4 text-white flex flex-col sm:flex-row items-center justify-between gap-4 shadow-xl"
-          >
-            <div className="flex items-center gap-3.5">
-              <div className="w-10 h-10 rounded-2xl bg-emerald-500/20 border border-emerald-400/40 flex items-center justify-center text-emerald-400 shrink-0">
-                <Download className="w-5 h-5 animate-bounce" />
-              </div>
-              <div>
-                <p className="font-extrabold text-sm text-white flex items-center gap-2">
-                  <span>{isBn ? 'Render / GitHub ডিপ্লয়মেন্ট জিপ ফাইল প্রস্তুত' : 'Render & GitHub Full Project ZIP Ready'}</span>
-                  <span className="text-[10px] bg-emerald-500 text-slate-950 font-black px-2 py-0.5 rounded-full">
-                    LATEST BUILD
-                  </span>
-                </p>
-                <p className="text-xs text-emerald-200/80 font-medium">
-                  {isBn 
-                    ? 'লেটেস্ট সমস্ত ফাইল (Silent Panic, Audio Streaming, Haptics সহ) সরাসরি ডাউনলোড করে GitHub-এ আপলোড করুন।' 
-                    : 'Download the full source code archive with all latest Silent Panic & police desk updates.'}
-                </p>
-              </div>
-            </div>
-            <div className="flex items-center gap-2 w-full sm:w-auto shrink-0">
-              <button
-                onClick={handleDownloadZip}
-                disabled={downloading}
-                className="w-full sm:w-auto bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-black text-xs px-4 py-2.5 rounded-xl flex items-center justify-center gap-2 transition-all cursor-pointer shadow-lg shadow-emerald-500/25 active:scale-95"
-              >
-                <Download className="w-4 h-4" />
-                <span>{downloading ? (isBn ? 'ডাউনলোড হচ্ছে...' : 'Downloading...') : (isBn ? 'ডাউনলোড প্রজেক্ট ZIP' : 'Download ZIP Archive')}</span>
-              </button>
-              <button
-                onClick={() => setIsDeployBannerDismissed(true)}
-                className="p-2 text-slate-400 hover:text-white hover:bg-white/10 rounded-xl text-xs transition-colors cursor-pointer"
-                title="Dismiss"
-              >
-                ✕
-              </button>
-            </div>
-          </motion.div>
-        )}
-
         {/* Active Police Alert Banner if any alerts active in system */}
         {activeAlertsCount > 0 && !emergency.isActive && (
           <motion.div

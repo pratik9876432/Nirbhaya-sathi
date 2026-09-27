@@ -3,7 +3,7 @@ import { useLanguage } from '../LanguageContext';
 import { useEmergency } from '../EmergencyContext';
 import { useAuth } from '../AuthContext';
 import { LANGUAGES } from '../constants';
-import { Shield, Languages, Menu, X, Users, MessageSquareWarning, GraduationCap, Phone, Home, Mountain, Sparkles, Radio, ShieldAlert, User, UserCheck, Download } from 'lucide-react';
+import { Shield, Languages, Menu, X, Users, MessageSquareWarning, GraduationCap, Phone, Home, Mountain, Sparkles, Radio, ShieldAlert, User, UserCheck } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import LiveClock from './LiveClock';
 import { ActiveModalType } from './FeatureModals';
@@ -24,33 +24,7 @@ export default function Header({ onOpenModal, onOpenPoliceController, onOpenUser
   const isBn = language === 'bn';
   const activeAlertsCount = allPoliceAlerts.filter(a => a.status === 'PENDING' || a.status === 'EN_ROUTE' || a.status === 'DISPATCHED').length;
 
-  const handleDownloadZip = async () => {
-    try {
-      const res = await fetch('/api/download-zip');
-      if (!res.ok) throw new Error('Download failed');
-      const blob = await res.blob();
-      const url = window.URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'nirbhaya_sathi_deploy.zip';
-      document.body.appendChild(a);
-      a.click();
-      window.URL.revokeObjectURL(url);
-      document.body.removeChild(a);
-    } catch (err) {
-      window.location.href = '/api/download-zip';
-    }
-  };
-
   const menuItems = [
-    {
-      id: 'download_project_zip',
-      label: isBn ? 'ডাউনলোড সম্পূর্ণ প্রজেক্ট ZIP (Render/GitHub)' : 'Download Project ZIP (Render/GitHub)',
-      icon: <Download className="w-5 h-5 text-emerald-600" />,
-      action: () => handleDownloadZip(),
-      badge: 'ZIP',
-      highlight: true
-    },
     {
       id: 'user_profile',
       label: isUserLoggedIn ? (isBn ? `প্রোফাইল: ${currentUser?.name}` : `Profile: ${currentUser?.name}`) : (isBn ? 'নাগরিক অ্যাকাউন্ট (লগইন / রেজিস্টার)' : 'Citizen Account (Login / Register)'),
@@ -126,17 +100,6 @@ export default function Header({ onOpenModal, onOpenPoliceController, onOpenUser
                 {activeAlertsCount}
               </span>
             )}
-          </button>
-
-          {/* Download Project ZIP Button for Deployment */}
-          <button
-            onClick={handleDownloadZip}
-            title={isBn ? "সম্পূর্ণ লেটেস্ট সোর্স কোড ZIP ডাউনলোড করুন" : "Download latest full project ZIP for Render / GitHub"}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-emerald-600 hover:bg-emerald-500 text-white font-black text-xs shadow-md shadow-emerald-600/30 transition-all cursor-pointer"
-          >
-            <Download className="w-3.5 h-3.5" />
-            <span className="hidden md:inline">{isBn ? 'ডাউনলোড ZIP' : 'Download ZIP'}</span>
-            <span className="md:hidden">ZIP</span>
           </button>
 
           {/* User Account / Profile / Login Button */}
